@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Visitor Management System & Leave Management System
 - 🌱 Currently learning: DevOps and Machine Learning
 - 💼 Tools I use: PHP, MySQL, Flutter, Python, Git, VS Code, Postman
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/ali-ahmed) | [Email](mailto:ali@example.com)
+- 📫 Reach me at: [LinkedIn]([https://linkedin.com/in/ali-ahmed](https://www.linkedin.com/in/aliahmed-businessdevelopementmanager/)) | [Email](mailto:ali22gali@gmail.com.com)
 - 📚 Book Lover & Storytelling Enthusiast
 
 ---
